@@ -1,9 +1,11 @@
+<img width="1310" height="608" alt="Gemini_Generated_Image_nkpotznkpotznkpo" src="https://github.com/user-attachments/assets/581c8d79-485f-47a0-b1b1-62d3e507c08a" />
+
 # 💫 About Me:
 I am a Full Stack Web Developer and a student at American International University-Bangladesh (AIUB).<br>I have experience working with React.js, Node.js, JavaScript, HTML, and CSS to build modern and responsive web applications.<br>I enjoy solving real-world problems through clean, efficient code and user-friendly design.<br>Passionate about learning new technologies and continuously improving my development skills.<br>
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-<img width="1310" height="608" alt="Gemini_Generated_Image_nkpotznkpotznkpo" src="https://github.com/user-attachments/assets/b5cdbae8-381b-42d7-87f3-800e5fb43f37" />
+[![Facebook](https://img.shields.io/badge/Facebook
 %231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rakib.hassan.524399) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakibul275) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rakibmur420@gmail.com) 
 
 # 💻 Tech Stack:
