@@ -1,4 +1,4 @@
-<img width="1310" height="608" alt="Gemini_Generated_Image_nkpotznkpotznkpo" src="https://github.com/user-attachments/assets/581c8d79-485f-47a0-b1b1-62d3e507c08a" />
+<img width="770" height="336" alt="image" src="https://github.com/user-attachments/assets/903556ca-d20d-4886-8b30-b45d72872a20" />
 
 # 💫 About Me:
 I am a Full Stack Web Developer and a student at American International University-Bangladesh (AIUB).<br>I have experience working with React.js, Node.js, JavaScript, HTML, and CSS to build modern and responsive web applications.<br>I enjoy solving real-world problems through clean, efficient code and user-friendly design.<br>Passionate about learning new technologies and continuously improving my development skills.<br>
