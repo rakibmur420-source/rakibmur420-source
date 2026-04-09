@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD.RAKIBUL HASSAN</h1>
 <h3 align="center">A passionate full stack web-developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibmur420-source" alt="rakibmur420-source" /></a> </p>
+
 
 - 🔭 I’m currently working on [Job Application Tracker](https://rakibmur420-source.github.io/B13-Assignment-4/)
 
